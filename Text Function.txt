@@ -7,3 +7,6 @@ Xpath by Text Function
 //div[text()='Travel']
 //div[text()='2-Wheelers']
 kjnqaakjn
+//div[text()='Applias']
+//div[text()='Travel3343213']
+//div[text()='2-Wheelers34323']
