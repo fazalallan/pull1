@@ -1,0 +1,8 @@
+Xpath by Text Function
+
+1.Top Offers--//div[text()='Top Offers']
+//div[text()='Grocery']
+//div[text()='Mobiles']
+//div[text()='Appliances']
+//div[text()='Travel']
+//div[text()='2-Wheelers']
